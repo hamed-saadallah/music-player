@@ -1,6 +1,7 @@
 {
   "name": "front",
   "version": "0.1.0",
+  "author": "hamed",
   "private": true,
   "dependencies": {
     "react": "^16.4.2",
