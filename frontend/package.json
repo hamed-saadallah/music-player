@@ -1,7 +1,7 @@
 {
   "name": "front",
   "version": "0.1.0",
-  "author": "hamed",
+  "author": "Jane Doe",
   "private": true,
   "dependencies": {
     "react": "^16.4.2",
